@@ -30,9 +30,18 @@ Colab 쓰는 법 · `print` · 사칙연산 · 몫과 나머지 · 오류 메시
 | ✏️ 문제집 (12문제) | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week01/01_workbook.ipynb) · [파일](week01/01_workbook.ipynb) |
 | ✅ 정답과 풀이 | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week01/01_workbook_answers.ipynb) · [파일](week01/01_workbook_answers.ipynb) |
 
-## 2주차 · 변수 (준비 중)
+## 2주차 · 변수, 입력, 자료형
 
-계산한 값에 이름을 붙여서 저장해 두는 상자
+변수(값에 붙이는 이름표) · `int` `float` `str` · `input` · 화씨 → 섭씨 계산기
+
+| 자료 | 열기 |
+|---|---|
+| 🎬 영상 | 곧 공개 |
+| 📓 수업 노트북 (빈 칸) | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_variables_input_types.ipynb) · [파일](week02/02_variables_input_types.ipynb) |
+| 📗 수업 완성본 | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_variables_input_types_solution.ipynb) · [파일](week02/02_variables_input_types_solution.ipynb) |
+| 📄 수업자료 PDF | [보기 · 내려받기](week02/02_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.pdf) |
+| ✏️ 문제집 (11문제) | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_workbook.ipynb) · [파일](week02/02_workbook.ipynb) |
+| ✅ 정답과 풀이 | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_workbook_answers.ipynb) · [파일](week02/02_workbook_answers.ipynb) |
 
 ---
 
@@ -82,7 +91,12 @@ suri-python/
 │   ├── 01_수업자료.pdf              📄 수업자료
 │   ├── 01_workbook.ipynb           ✏️ 문제집
 │   └── 01_workbook_answers.ipynb   ✅ 정답과 풀이
-└── week02/                         ← 2주차 (준비 중)
+└── week02/                         ← 2주차
+    ├── 02_variables_input_types.ipynb   📓 수업 노트북 (빈 칸)
+    ├── 02_variables_input_types_solution.ipynb   📗 수업 완성본
+    ├── 02_수업자료.pdf              📄 수업자료
+    ├── 02_workbook.ipynb           ✏️ 문제집
+    └── 02_workbook_answers.ipynb   ✅ 정답과 풀이
 ```
 
 ---
