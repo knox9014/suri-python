@@ -41,7 +41,7 @@ Colab 쓰는 법 · `print` · 사칙연산 · 몫과 나머지 · 오류 메시
 | 📗 수업 완성본 | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_variables_input_types_solution.ipynb) · [파일](week02/02_variables_input_types_solution.ipynb) |
 | 📄 수업자료 PDF | [보기 · 내려받기](week02/02_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.pdf) |
 | ✏️ 문제집 (11문제) | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_workbook.ipynb) · [파일](week02/02_workbook.ipynb) |
-| ✅ 정답과 풀이 | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_workbook_answers.ipynb) · [파일](week02/02_workbook_answers.ipynb) |
+| ✅ 정답과 풀이 (수업 과제 정답 포함) | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_workbook_answers.ipynb) · [파일](week02/02_workbook_answers.ipynb) |
 
 ---
 
