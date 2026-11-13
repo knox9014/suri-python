@@ -36,7 +36,7 @@ Colab 쓰는 법 · `print` · 사칙연산 · 몫과 나머지 · 오류 메시
 
 | 자료 | 열기 |
 |---|---|
-| 🎬 영상 | 곧 공개 |
+| 🎬 영상 | [▶ 2편 보기](https://youtu.be/FPzxnSo65SU) |
 | 📓 수업 노트북 (빈 칸) | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_variables_input_types.ipynb) · [파일](week02/02_variables_input_types.ipynb) |
 | 📗 수업 완성본 | [▶ Colab에서 열기](https://colab.research.google.com/github/knox9014/suri-python/blob/main/week02/02_variables_input_types_solution.ipynb) · [파일](week02/02_variables_input_types_solution.ipynb) |
 | 📄 수업자료 PDF | [보기 · 내려받기](week02/02_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.pdf) |
